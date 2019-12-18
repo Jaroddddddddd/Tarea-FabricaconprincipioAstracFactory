@@ -1,0 +1,11 @@
+C:\Users\Jarod\source\repos\TareaFactori\TareaFactori\obj\Debug\netcoreapp3.0\TareaFactori.csprojAssemblyReference.cache
+C:\Users\Jarod\source\repos\TareaFactori\TareaFactori\obj\Debug\netcoreapp3.0\TareaFactori.AssemblyInfoInputs.cache
+C:\Users\Jarod\source\repos\TareaFactori\TareaFactori\obj\Debug\netcoreapp3.0\TareaFactori.AssemblyInfo.cs
+C:\Users\Jarod\source\repos\TareaFactori\TareaFactori\bin\Debug\netcoreapp3.0\TareaFactori.exe
+C:\Users\Jarod\source\repos\TareaFactori\TareaFactori\bin\Debug\netcoreapp3.0\TareaFactori.deps.json
+C:\Users\Jarod\source\repos\TareaFactori\TareaFactori\bin\Debug\netcoreapp3.0\TareaFactori.runtimeconfig.json
+C:\Users\Jarod\source\repos\TareaFactori\TareaFactori\bin\Debug\netcoreapp3.0\TareaFactori.runtimeconfig.dev.json
+C:\Users\Jarod\source\repos\TareaFactori\TareaFactori\bin\Debug\netcoreapp3.0\TareaFactori.dll
+C:\Users\Jarod\source\repos\TareaFactori\TareaFactori\bin\Debug\netcoreapp3.0\TareaFactori.pdb
+C:\Users\Jarod\source\repos\TareaFactori\TareaFactori\obj\Debug\netcoreapp3.0\TareaFactori.dll
+C:\Users\Jarod\source\repos\TareaFactori\TareaFactori\obj\Debug\netcoreapp3.0\TareaFactori.pdb
